@@ -1,5 +1,5 @@
 # Covid-19
-<h3>Used Tableau to perform calculation for Data Visualization of Covid-19 in India.
+<b>Used Tableau to perform calculation for Data Visualization of Covid-19 in India.</b>
 
 For the data Visualization of <b>Day Wise Drift</b> of Covid-19 cases in India.Drag and drop the fields on the specified position to get the visualization. Add "Date" to "pages" to show a drift in each day. The increase in the size of bubble shows the intensity with which the virus is spreading in that region. &nbsp;
 
