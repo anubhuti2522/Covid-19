@@ -15,34 +15,36 @@ Follow the steps to get the Nation Wide Drift of covid-19 cases in India. The st
 
 
 
-This comparision shows the Butterfly chart of the number of cases which are cured and the number of deaths in India. THe chart is organised in the decreasing of the severeness of virus in that state. This charts helps to analyse the speed with which the virus is spreading day by day and is killing thousands of people daily. &nbsp;
+This comparision shows the Butterfly chart of <b>the number of cases which are cured and the number of deaths in India</b>. THe chart is organised in the decreasing of the severeness of virus in that state. This charts helps to analyse the speed with which the virus is spreading day by day and is killing thousands of people daily. &nbsp;
 
 ![](https://github.com/anubhuti2522/Covid-19/blob/master/images/CuredVSdeath.png)
 &nbsp;
 
-Create a Function 'Zero' for creating a division between cured and death cases. &nbsp;
+Followed the steps to create the division between cured and death.
+<b>STEP :</b> Create a Function 'Zero' for creating a division between cured and death cases. &nbsp;
 
 ![](https://github.com/anubhuti2522/Covid-19/blob/master/images/Zero.png)
 &nbsp;
 
 
 
-This shows the comparision among the number of confirmed cases, cured case and the number of deaths in India. The chart is organised in according to the months and shows the severeness of virus in that month. This charts helps to analyse the speed with which the virus is spreading.
+This shows the <b>comparision among the number of confirmed cases, cured case and the number of deaths in India</b>. The chart is organised in according to the months and shows the severeness of virus in that month. This charts helps to analyse the speed with which the virus is spreading.&nbsp;
 ![](https://github.com/anubhuti2522/Covid-19/blob/master/images/Comparision.png)
 &nbsp;
 
 
 
-The racing bar chart of the number of confired cases daily in each states shows the state which is severely affected by Covid-19. &nbsp;
+The racing bar chart of <b>the number of confired cases daily in each states</b> shows the state which is severely affected by Covid-19. &nbsp;
 
 ![](https://github.com/anubhuti2522/Covid-19/blob/master/images/confirmedCase.png)
 &nbsp;
 
-To add label inside the bar graph, use 'Label_in' function. &nbsp;
+Steps followed are:
+<b>STEP 1:</b> Add label inside the bar graph, use 'Label_in' function. &nbsp;
 
 ![](https://github.com/anubhuti2522/Covid-19/blob/master/images/Label_in.png)
 &nbsp;
 
-To return the unique rank for the current row in the partition, use 'Rank' function. &nbsp;
+<b>STEP 2:</b> Return the unique rank for the current row in the partition, use 'Rank' function. &nbsp;
 
 ![](https://github.com/anubhuti2522/Covid-19/blob/master/images/Rank.png)
