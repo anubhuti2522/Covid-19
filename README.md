@@ -4,7 +4,7 @@
 Fig 1 shows the data Visualization of <b>Day Wise Drift</b> of Covid-19 cases in India.Drag and drop the fields on the specified position to get the visualization. Add "Date" to "pages" to show a drift in each day. The increase in the size of bubble shows the intensity with which the virus is spreading in that region. &nbsp;
 
 ![](https://github.com/anubhuti2522/Covid-19/blob/master/images/DaywiseDrift.png)
-<centre>Fig 1</centre>&nbsp;
+<center>Fig 1</center>&nbsp;
 
 
 
